@@ -1,7 +1,5 @@
 # Individual-Assignment-Machine-Learning
-Vehicle Image Classification: Baseline CNN, MobileNetV2 and Fine-tuning
-
-#  Vehicle Image Classification using CNN and Transfer Learning (MobileNetV2)
+# Vehicle Image Classification: Baseline CNN, MobileNetV2 and Fine-tuning
 
 ##  Overview
 This project presents an end-to-end image classification pipeline for vehicle recognition using deep learning. It compares a baseline Convolutional Neural Network (CNN) with a transfer learning approach using MobileNetV2, including fine-tuning.
